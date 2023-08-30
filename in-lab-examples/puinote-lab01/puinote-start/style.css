@@ -1,0 +1,17 @@
+body{
+    font-family: 'Roboto', 'Arial', 'Helvetica';
+    font-size: 14px; 
+    color: #939393;
+
+    background-color: #191919; 
+}
+
+.note-title{
+    color: #dddddd; 
+    font-size:18px; 
+    font-weight: 500; 
+}
+
+.notecard{
+    background-color: #d51313
+}
